@@ -10,4 +10,4 @@ the "AIR Tools II" package by Hansen and Jorgensen (https://github.com/jakobsj/A
 
 1. Unzip the two zip packages here in this folder. 
 2. Open Matlab
-3. >> CTMain
+3. Run CTMain.m
